@@ -2,7 +2,7 @@
 A modified Arduboy games library for the Cardputer, allowing you to play Arduboy games on the device.
 EEPROM saves are converted to SD‑card saves.
 All required libraries are included in the lib folder.
-Note: In some games, music may not work.
+Note: In some games, music may not work. (arduboy Tone or Playtone not compatible with esp32 and i don't think i can code it)
 
 # Keys
 - Arrow keys: movement
