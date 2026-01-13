@@ -16,6 +16,10 @@ Copy the game files from "bin_output" directory to your SD card and install the 
 - –: volume down
 
 
+# why EEPROM_TO_SD
+I created this library because I don’t use the default EEPROM implementation on the ESP32.
+On the ESP32, “EEPROM” is actually stored in flash memory, and whenever you flash a new game, all the saved data gets erased.
+To avoid losing game saves, every EEPROM write that an Arduboy game performs is redirected to the SD card instead, where the data is stored permanently.
 
 # License
 
