@@ -14,7 +14,7 @@ Copy the game files from "bin_output" directory to your SD card and install the 
 - 1: change color
 - +: volume up
 - –: volume down
-
+-  ] or [ key to set screen brightness
 
 # why EEPROM_TO_SD
 I created this library because I don’t use the default EEPROM implementation on the ESP32.
