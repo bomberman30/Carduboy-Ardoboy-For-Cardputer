@@ -1,4 +1,24 @@
 # Carduboy-Ardoboy-For-Cardputer
+
+
+
+## this project is abandoned
+the project is now part of advanceOS for cardputer , the games in the project
+https://github.com/bomberman30/AdvanceOS-for-cardputer
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 A modified Arduboy games library for the Cardputer, allowing you to play Arduboy games on Cardputer and ADV.
 EEPROM saves are converted to SD‑card saves.
 All required libraries are included in the lib folder.
